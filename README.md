@@ -1,7 +1,8 @@
 # Cordoba-Wildfires
 
+https://ardecordoba.netlify.app/
 
-web map creado en qgis.
+web map creado en qgis. Es la demo de la potencialidad del uso de GEE para monitoreo de incendios forestales y el inicio de un proyecto de seguimiento de incendios y evaluación de daños utilizando al combinacion de informacion provenientes de los satelites GOES 16 y 17, sensores MODIS utilizados en los satelites Aqua y Terra y las imagenes de alta resolucion obtenidas por los satelites Sentinel 2 y Landsat.
 
 Imagenes obtenidas y editadas en Google Earth Engine
 
